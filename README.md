@@ -14,11 +14,13 @@ This document describes how to use the Arduino library for LoRaWan products from
 1.2 References
 
 https://www.arduino.cc/ 
+
 https://www.lora-alliance.org/ 
 
 1.3 Glossary
 
 MAC: Medium Access Control
+
 ISM band: industrial, scientific and medical radio bands
 
 2 General information
